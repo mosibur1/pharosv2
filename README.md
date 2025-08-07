@@ -128,21 +128,6 @@ nano wallet.txt
 ```
 node main.js
 ```
----
-
-## 🤝 Community Support
-
-Need help, updates, or want to show off your setup?
-
-Join the official Telegram group for support, discussion, and announcements:  
-**[→ Telegram: @Offical_Im_kazuha](https://t.me/Offical_Im_kazuha)**
-
-Whether you're facing issues, contributing improvements, or just vibing — everyone's welcome.
-
-Have a feature request or found a bug?  
-→ Open an [Issue](https://github.com/Kazuha787/Pharos-Auto-Bot/issues) or submit a [Pull Request](https://github.com/Kazuha787/Pharos-Auto-Bot/pulls).
-
----
 
 ## 🧾 License
 
