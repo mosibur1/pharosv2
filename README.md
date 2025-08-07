@@ -106,8 +106,8 @@ Before using the bot, make sure you have:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Kazuha787/Pharos-Auto-Bot.git
-cd Pharos-Auto-Bot
+git clone https://github.com/mosibur1/pharosv2.git
+cd pharosv2
 ```
 # 2. Install dependencies
 ```
