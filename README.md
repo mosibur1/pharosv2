@@ -113,6 +113,10 @@ cd pharosv2
 ```
 npm install
 ```
+# Install Chalk
+```
+npm install chalk 
+```
 # 3. Configure your settings put your key in 
 ```
 nano wallets.txt 
