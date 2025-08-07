@@ -127,6 +127,10 @@ nano wallets.txt
 ```
 nano wallet.txt
 ```
+# Add Proxy
+```
+nano proxy.txt
+```
 
 # 4. Run the bot
 ```
